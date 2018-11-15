@@ -1,4 +1,4 @@
-import musicplayer, sys, os, fnmatch, random, pprint, Tkinter
+import musicplayer, sys, os, fnmatch, random, pprint, tkinter
 
 class Song:
         def __init__(self, fn):
@@ -45,7 +45,7 @@ player.queue = songs()
 player.peekQueue = peekSongs
 
 # Setup a simple GUI.
-window = Tkinter.Tk()
+window = tkinter.Tk()
 window.title("Music Player")
 songLabel = Tkinter.StringVar()
 
