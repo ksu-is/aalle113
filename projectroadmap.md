@@ -10,3 +10,4 @@
 10.	Have someone (preferably Dr. Thomas) to over look code for any errors - NOT DONE
 11.	Install code and file to my laptop - NOT DONE
 12.	Commit final code to Github - NOT DONE
+Make powerpoint and add contributor(s) - IN PROGRESS: WILL ADD CONTRIBUTOR
